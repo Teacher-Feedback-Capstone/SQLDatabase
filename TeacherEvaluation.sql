@@ -1,1 +1,0 @@
-SELECT * FROM teacherevaluationdb.Weekly_Report;
